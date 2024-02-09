@@ -1,0 +1,4 @@
+Name: Shivathmika
+Age: 20
+Marks:89
+Grade: A
