@@ -1,4 +1,0 @@
-import pandas as pd
-d=pd.read_excel("C:\\Users\\DELL\\OneDrive\\Desktop\\Data Engineering Python\\DEPython\\Marks.xlsx")
-df=pd.DataFrame(d)
-print(df)
