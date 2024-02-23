@@ -1,0 +1,26 @@
+#Datatypes
+print("Datatypes")
+#int
+print(type(12))
+#float
+print(type(18.9))
+#complex
+print(type(2+4j))
+#List
+l=[12,11,90.89,'apple']
+print(type(l))
+#Tuple
+t=(12,90,34.33,'tuple')
+print(type(t))
+#Set
+s={1,2,3,4,5}
+print(type(s))
+#Dictionary
+d={1:'a',2:'b',3:'c'}
+print(type(d))
+# String
+str='Hello'
+print(type(str))
+#Boolean
+b=True
+print(type(b))
